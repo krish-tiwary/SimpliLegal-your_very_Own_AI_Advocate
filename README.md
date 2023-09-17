@@ -1,1 +1,2 @@
-# Technovate_Hackathon_SimpliLegal
+# Technovate_Hackathon
+SIMPLILEGAL
